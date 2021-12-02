@@ -1,2 +1,2 @@
-# Chat-Commerse
-Halaman Chat Commerce untuk website Jatis Mobile
+# Chat-Commerce
+Chat-Commerce page for Jatis Mobile website.
